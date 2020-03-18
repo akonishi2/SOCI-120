@@ -28,9 +28,10 @@ Then open your browser to [http://127.0.0.1:8889/](http://127.0.0.1:8889/), pres
 
 ## Files
 
-* ``final_model.py``: This defines the NewModel and TradModel classes.
 * ``run.py``: Launches a model visualization server.
 * ``final_project.ibynb``: the main notebook of the project.
+* ``New.py``: contains the class for the New Model
+* ``Traditional.py``: contains the class for the Traditional Model
 
 ## References
 
